@@ -1,0 +1,5 @@
+imagezmq
+imutils
+numpy
+opencv-contrib-python
+pyzmq
